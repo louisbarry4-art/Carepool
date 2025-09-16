@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Digital Products – Earn Smarter</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>Best Digital Products & Online Courses</h1>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="health.html">Health</a>
+      <a href="wealth.html">Wealth</a>
+      <a href="tools.html">Tools</a>
+      <a href="digital.html" class="active">Digital Products</a>
+      <a href="blog.html">Blog</a>
+    </nav>
+  </header>
+
+  <main>
+    <section>
+      <h2>🔥 Top Digital Products for 2025</h2>
+      <p>Explore bestselling ebooks, courses, and software that help you grow wealth, improve health, and master online marketing.</p>
+      <ul class="product-list">
+        <li>
+          <h3>📚 Affiliate Marketing Bootcamp</h3>
+          <p>Step-by-step online course that shows beginners how to start earning $100/day in affiliate marketing.</p>
+          <a class="btn" href="https://affiliate.clickbank.com/12-minute-affiliate?aff=YOURID">Get Course</a>
+        </li>
+        <li>
+          <h3>💡 Crypto Secrets Ebook</h3>
+          <p>Learn the strategies top crypto investors use in 2025 to grow passive income.</p>
+          <a class="btn" href="https://www.digistore24.com/redir/XYZ/YOURID/">Download Ebook</a>
+        </li>
+        <li>
+          <h3>⚡ AI Copywriting Software</h3>
+          <p>Generate blog posts, ads, and sales copy with AI. Perfect for marketers and entrepreneurs.</p>
+          <a class="btn" href="https://www.digistore24.com/redir/ABC/YOURID/">Try It Now</a>
+        </li>
+        <li>
+          <h3>🎵 Spotify Premium</h3>
+          <p>Boost your focus with ad-free music and podcasts while working on your online business.</p>
+          <a class="btn" href="https://spotify.com/premium?affiliate_id=YOURID">Start Free Trial</a>
+        </li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>📖 Featured Articles</h2>
+      <article>
+        <h3>Why Digital Products Are the Future of Passive Income</h3>
+        <p>Digital products like ebooks, online courses, and software require no inventory and can generate sales 24/7. Learn how to promote them and earn commissions.</p>
+        <a href="blog.html">Read More</a>
+      </article>
+      <article>
+        <h3>Top 5 Online Courses to Boost Your Skills in 2025</h3>
+        <p>From affiliate marketing to crypto investing, these courses are designed to help you grow your knowledge and income.</p>
+        <a href="blog.html">Read More</a>
+      </article>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 Earn Smarter</p>
+    <p class="disclaimer">Disclaimer: This site contains affiliate links. We may earn commissions when you click or make purchases at no extra cost to you. As an Amazon Associate and affiliate of other programs, we earn from qualifying purchases.</p>
+  </footer>
+</body>
+</html>
